@@ -1,4 +1,12 @@
-### Hi there 👋
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dkondakova&count_private=true&show_icons=true&title_color=386C3E&icon_color=386C3E&text_color=539F56&cache_seconds=1800&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Dasha's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkondakova&layout=compact&langs_count=6&title_color=386C3E&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+### 🔗 Links  
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-386C3E?style=for-the-badge&logo=telegram)](https://t.me/dkondakova)
+[![Spotufy Badge](https://img.shields.io/badge/-Spotify-386C3E?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/31lbyjz3rflihu7ytvccpo4muatu)
+[![Email Badge](https://img.shields.io/badge/-Email-386C3E?style=for-the-badge&logo=gmail)](mailto:darya.kondakova@gmail.com)  
 
 <!--
 **dkondakova/dkondakova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
