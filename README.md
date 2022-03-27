@@ -1,6 +1,6 @@
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=dkondakova&count_private=true&show_icons=true&title_color=386C3E&icon_color=386C3E&text_color=539F56&cache_seconds=1800&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Dasha's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkondakova&layout=compact&langs_count=6&title_color=386C3E&hide_border=true" /></a> 
-<br clear="all" />
+|  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dkondakova&count_private=true&show_icons=true&title_color=386C3E&icon_color=386C3E&text_color=539F56&cache_seconds=1800&hide_border=true&custom_title=My%20GitHub%20Stats" alt="Dasha's github stats" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkondakova&layout=compact&langs_count=6&title_color=386C3E&hide_border=true" /> </a> |
+| ------------- | ------------- |
+
 
 ### 🔗 Links  
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-386C3E?style=for-the-badge&logo=telegram)](https://t.me/dkondakova)
